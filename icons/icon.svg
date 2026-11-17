@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#0b0809"/>
+<path d="M64 96h384v104H64z" fill="#e5001c" transform="rotate(-4 256 148)"/>
+<path d="M78 232h356v104H78z" fill="#f7f2ef" transform="rotate(3 256 284)"/>
+<text x="256" y="175" fill="#fff" font-family="Arial,sans-serif" font-size="74" font-weight="900" text-anchor="middle">RANK</text>
+<text x="256" y="310" fill="#0b0809" font-family="Arial,sans-serif" font-size="68" font-weight="900" text-anchor="middle">UP</text>
+<path d="M132 392h248" stroke="#e5001c" stroke-width="18" stroke-linecap="round"/>
+</svg>

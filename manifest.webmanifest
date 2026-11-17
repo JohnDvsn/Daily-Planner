@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Rank Up Diary",
+  "short_name": "Rank Up",
+  "description": "Habit, task, study, and life RPG tracker.",
+  "lang": "id-ID",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0809",
+  "theme_color": "#0b0809",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
